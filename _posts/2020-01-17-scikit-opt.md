@@ -1,5 +1,7 @@
+## scikit-opt README
 
-## 6. immune algorithm (IA)
+### 6. immune algorithm (IA)
+
 -> Demo code: [examples/demo_ia.py#s2](https://github.com/guofei9987/scikit-opt/blob/master/examples/demo_ia.py#L6)
 ```python
 
@@ -24,7 +26,7 @@ print('best routine:', best_points, 'best_distance:', best_distance)
 
 ![ia2](../images/ia2.png)
 
-## 7. artificial fish swarm algorithm (AFSA)
+### 7. artificial fish swarm algorithm (AFSA)
 -> Demo code: [examples/demo_asfs.py#s1](https://github.com/guofei9987/scikit-opt/blob/master/examples/demo_asfs.py#L1)
 ```python
 def func(x):
