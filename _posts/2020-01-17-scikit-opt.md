@@ -14,17 +14,11 @@ print('best routine:', best_points, 'best_distance:', best_distance)
 
 ```
 
-![sa_tsp1](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/2020-01-17-scikit-opt/sa_tsp1.gif?raw=true)
+![sa_tsp1](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/2020-01-17-scikit-opt/sa_tsp1.gif)
 
-![sa_tsp1](../images/2020-01-17-scikit-opt/sa_tsp1.gif)
+![pso](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/2020-01-17-scikit-opt/pso.gif)
 
-![pso](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/2020-01-17-scikit-opt/pso.gif?raw=true)
-
-![pso](../images/2020-01-17-scikit-opt/pso.gif)
-
-![ia2](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/2020-01-17-scikit-opt/ia2.png?raw=true)
-
-![ia2](../images/2020-01-17-scikit-opt/ia2.png)
+![ia2](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/2020-01-17-scikit-opt/ia2.png)
 
 ### 7. artificial fish swarm algorithm (AFSA)
 -> Demo code: [examples/demo_asfs.py#s1](https://github.com/guofei9987/scikit-opt/blob/master/examples/demo_asfs.py#L1)
