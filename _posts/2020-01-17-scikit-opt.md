@@ -16,8 +16,6 @@ print('best routine:', best_points, 'best_distance:', best_distance)
 
 **![sa_tsp1](https://github.com/zhang5389/zhang5389.github.io/blob/master/images/sa_tsp1.gif?raw=true)**
 
-
-
 ![sa_tsp1](../images/sa_tsp1.gif)
 
 
